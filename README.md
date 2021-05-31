@@ -1,6 +1,6 @@
-[![Slam](https://live.staticflickr.com/65535/51210757429_0fc490e055_o_d.jpg)](https://t.me/VMOVIES_UHD)
+[![Slam](https://live.staticflickr.com/65535/51210757429_0fc490e055_o_d.jpg)](https://t.me/Dream_cloud404)
 
-owner of this repo :- [VMOVIES](https://github.com/vmvoies404)
+owner of this repo :- [DREAM CLOUD](https://github.com/dreamcloud404)
 
 contact me :- [VMOVIES](https://t.me/VMOVIES_UHD)
 
