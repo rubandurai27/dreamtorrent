@@ -4,7 +4,7 @@ owner of this repo :- [DREAM CLOUD](https://github.com/dreamcloud404)
 
 contact me :- [DREAM CLOUD](https://t.me/VMOVIES_UHD)
 
-# Slam Mirror Bot
+# Dream Cloud Bot
 This is a telegram bot writen in python for mirroring files on the internet to our beloved Google Drive.
 
 ## Deploying on Heroku
