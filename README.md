@@ -1,4 +1,4 @@
-[![Slam](https://live.staticflickr.com/65535/51215872465_6307e54e58_o_d.jpg)](https://t.me/Dream_cloud404)
+[![Slam](https://live.staticflickr.com/65535/51215872465_86ecd77bd8_o_d.jpg)](https://t.me/Dream_cloud404)
 
 owner of this repo :- [DREAM CLOUD](https://github.com/dreamcloud404)
 
