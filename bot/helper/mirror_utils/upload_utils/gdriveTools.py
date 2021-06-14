@@ -322,9 +322,9 @@ class GoogleDriveHelper:
                 buttons = button_build.ButtonMaker()
                 if SHORTENER is not None and SHORTENER_API is not None:
                     surl = requests.get('https://{}/api?api={}&url={}&format=text'.format(SHORTENER, SHORTENER_API, durl)).text
-                    buttons.buildbutton("🌍 𝗚-𝗗𝗥𝗜𝗩𝗘 𝗟𝗜𝗡𝗞 🌍", surl)
+                    buttons.buildbutton("💽 𝗚-𝗗𝗥𝗜𝗩𝗘 𝗟𝗜𝗡𝗞 💽", surl)
                 else:
-                    buttons.buildbutton("🌍 𝗚-𝗗𝗥𝗜𝗩𝗘 𝗟𝗜𝗡𝗞 🌍", durl)
+                    buttons.buildbutton("💽 𝗚-𝗗𝗥𝗜𝗩𝗘 𝗟𝗜𝗡𝗞 💽", durl)
                 if INDEX_URL is not None:
                     url = requests.utils.requote_uri(f'{INDEX_URL}/{meta.get("name")}/')
                     if SHORTENER is not None and SHORTENER_API is not None:
@@ -345,9 +345,9 @@ class GoogleDriveHelper:
                 buttons = button_build.ButtonMaker()
                 if SHORTENER is not None and SHORTENER_API is not None:
                     surl = requests.get('https://{}/api?api={}&url={}&format=text'.format(SHORTENER, SHORTENER_API, durl)).text
-                    buttons.buildbutton("🌍 𝗚-𝗗𝗥𝗜𝗩𝗘 𝗟𝗜𝗡𝗞 🌍", surl)
+                    buttons.buildbutton("💽 𝗚-𝗗𝗥𝗜𝗩𝗘 𝗟𝗜𝗡𝗞 💽", surl)
                 else:
-                    buttons.buildbutton("🌍 𝗚-𝗗𝗥𝗜𝗩𝗘 𝗟𝗜𝗡𝗞 🌍", durl)
+                    buttons.buildbutton("💽 𝗚-𝗗𝗥𝗜𝗩𝗘 𝗟𝗜𝗡𝗞 💽", durl)
                 try:
                     msg += f'\n\n<b>➩ 💾 Total Size :</b> <code>{get_readable_file_size(int(meta.get("size")))}</code>\n\n<b>#File Cloned To DreamCloud ✅</b>\n\n<b>➩ 🗳 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @Dream_Bots404</b>\n\n<b>⚠ 𝗗𝗢 𝗡𝗢𝗧 <u>𝗦𝗛𝗔𝗥𝗘</u> 𝗜𝗡𝗗𝗘𝗫 𝗟𝗜𝗡𝗞 𝗣𝗨𝗕𝗟𝗜𝗖𝗟𝗬 🅾🆃🅷🅴🆁🆆🅸🆂🅴 🆈🅾🆄 🆆🅸🅻🅻 🅱🅴 🅱🅰🅽🅽🅴🅳 ⚠</b>'
                 except TypeError:
@@ -514,9 +514,9 @@ class GoogleDriveHelper:
                         if SHORTENER is not None and SHORTENER_API is not None:
                             sfurl = requests.get(
                                 'https://{}/api?api={}&url={}&format=text'.format(SHORTENER, SHORTENER_API, furl)).text
-                            msg += f"<b><a href={sfurl}>🌠 𝗚-𝗗𝗥𝗜𝗩𝗘 𝗟𝗜𝗡𝗞 🌠</a></b>"
+                            msg += f"<b><a href={sfurl}>💽 𝗚-𝗗𝗥𝗜𝗩𝗘 𝗟𝗜𝗡𝗞 💽</a></b>"
                         else:
-                            msg += f"<b><a href={furl}>🌠 𝗚-𝗗𝗥𝗜𝗩𝗘 𝗟𝗜𝗡𝗞 🌠</a></b>"
+                            msg += f"<b><a href={furl}>💽 𝗚-𝗗𝗥𝗜𝗩𝗘 𝗟𝗜𝗡𝗞 💽</a></b>"
                         if INDEX_URL is not None:
                             url = requests.utils.requote_uri(f'{INDEX_URL}/{file.get("name")}/')
                             if SHORTENER is not None and SHORTENER_API is not None:
@@ -532,9 +532,9 @@ class GoogleDriveHelper:
                         if SHORTENER is not None and SHORTENER_API is not None:
                             sfurl = requests.get(
                                 'https://{}/api?api={}&url={}&format=text'.format(SHORTENER, SHORTENER_API, furl)).text
-                            msg += f"<b><a href={sfurl}>🌠 𝗚-𝗗𝗥𝗜𝗩𝗘 𝗟𝗜𝗡𝗞 🌠</a></b>"
+                            msg += f"<b><a href={sfurl}>💽 𝗚-𝗗𝗥𝗜𝗩𝗘 𝗟𝗜𝗡𝗞 💽</a></b>"
                         else:
-                            msg += f"<b><a href={furl}>🌠 𝗚-𝗗𝗥𝗜𝗩𝗘 𝗟𝗜𝗡𝗞 🌠</a></b>"
+                            msg += f"<b><a href={furl}>💽 𝗚-𝗗𝗥𝗜𝗩𝗘 𝗟𝗜𝗡𝗞 💽</a></b>"
                         if INDEX_URL is not None:
                             url = requests.utils.requote_uri(f'{INDEX_URL}/{file.get("name")}')
                             if SHORTENER is not None and SHORTENER_API is not None:
