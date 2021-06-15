@@ -106,7 +106,7 @@ def bot_help(update, context):
 
 /{BotCommands.StatusCommand}: Shows a status of all the downloads
 
-/{BotCommands.searchCommand} [search term]: Searches the search term in the Google drive, if found replies with the link
+/{BotCommands.ListCommand} [search term]: Searches the search term in the Google drive, if found replies with the link
 
 /{BotCommands.StatsCommand}: Show Stats of the machine the bot is hosted on
 
