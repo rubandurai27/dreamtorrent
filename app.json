@@ -1,15 +1,15 @@
 {
-    "name": "slam-mirrorbot ",
+    "name": "DreamCloud ",
     "description": "Telegram mirror bot writen python",
-    "logo": "https://telegra.ph/file/019996f816db9ed576cff.jpg",
+    "logo": "https://live.staticflickr.com/65535/51215872465_86ecd77bd8_o_d.jpg",
     "keywords": [
       "bot",
       "telegram",
       "python"
     ],
-    "repository": "https://github.com/ayushteke/slam_aria_mirror_bot_HEROKU",
-    "website": "https://t.me/torrent_to_gdrive",
-    "success_url": "https://github.com/ayushteke/slam_aria_mirror_bot_HEROKU/blob/master/README.md",
+    "repository": "https://github.com/dreamcloud404/dreamtorrent403",
+    "website": "https://t.me/Dream_cloud404",
+    "success_url": "https://github.com/dreamcloud404/dreamtorrent403",
     "stack": "container",
     "env": {
       "ENV": {
