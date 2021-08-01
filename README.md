@@ -1,4 +1,4 @@
-[![Slam](https://live.staticflickr.com/65535/51215872465_86ecd77bd8_o_d.jpg)](https://t.me/Dream_cloud404)
+[![Slam](https://telegra.ph/file/e20f7ef12c945e54c6c02.jpg)](https://t.me/tnrockers2021)
 
 owner of this repo :- [DREAM CLOUD](https://github.com/dreamcloud404)
 
