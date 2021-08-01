@@ -1,10 +1,10 @@
 [![Slam](https://telegra.ph/file/e20f7ef12c945e54c6c02.jpg)](https://t.me/tnrockers2021)
 
-owner of this repo :- [DREAM CLOUD](https://github.com/dreamcloud404)
+owner of this repo :- [TNROCKERS](https://github.com/dreamcloud404)
 
 contact me :- [DREAM CLOUD](https://t.me/VMOVIES_UHD)
 
-# Dream Cloud Bot
+# TNROCKERS Mirror Bot
 This is a telegram bot writen in python for mirroring files on the internet to our beloved Google Drive.
 
 ## Deploying on Heroku
